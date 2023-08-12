@@ -141,7 +141,7 @@ module.exports = (env, argv) => {
       path: internalPath,
       filename: '[contenthash].js',
       sourceMapFilename: '[contenthash].map',
-      devtoolNamespace: 'dantheman827.github.io/ntag215-puck.js',
+      devtoolNamespace: '8bitdream.github.io/ntag215-puck.js',
       devtoolModuleFilenameTemplate: 'https://[namespace]/[resource-path]'
     }
   }

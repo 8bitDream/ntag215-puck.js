@@ -12,7 +12,7 @@ If you want to manually upload the script, see the section below.
 
 ## Manual Script Upload
 
-First you'll need to write [this .js file](https://raw.githubusercontent.com/DanTheMan827/ntag215-puck.js/master/ntag215.js) to your puck.js with the [Espruino IDE](https://www.espruino.com/ide/), then after you do that you'll be able to connect with this page by clicking connect to puck.
+First you'll need to write [this .js file](https://raw.githubusercontent.com/8bitdream/ntag215-puck.js/master/ntag215.js) to your puck.js with the [Espruino IDE](https://www.espruino.com/ide/), then after you do that you'll be able to connect with this page by clicking connect to puck.
 
 If you ever want to put the puck back into programming mode, you can click the enable uart button that appears after connecting.
 
